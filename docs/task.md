@@ -1,0 +1,16 @@
+- [ ] Set up Python environment and dependencies
+- [ ] Load and explore training dataset
+- [ ] Preprocess data (categorical encoding, date features, text features)
+- [ ] Handle class imbalance
+- [ ] Build baseline models and evaluate
+- [ ] Implement advanced models (LightGBM, CatBoost, TabNet)
+- [ ] Hyper‑parameter tuning with Optuna
+- [ ] Create ensemble and stacking
+- [ ] Design robust validation (nested stratified CV)
+- [ ] Train final model on full data
+- [ ] Generate submission CSV for test set
+- [ ] Add documentation, README, and package structure
+- [ ] Create scripts: `train.py`, `predict.py`, `utils.py`
+- [ ] Add CSV validator script
+- [ ] Version control and submission log
+- [ ] Final testing and hand‑off

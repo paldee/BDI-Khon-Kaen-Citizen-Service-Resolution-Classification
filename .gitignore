@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Competition Data & Submissions
+dataset/
+catboost_info/
+submissions/
+*.log
+
+# Diagnostic outputs
+diagnostics/
