@@ -2,6 +2,8 @@
 
 This repository contains the champion (1st Place) machine learning solution for the BDI Khon Kaen Citizen Service Resolution Classification competition. The final model achieves **0.7349** accuracy on the Leaderboard, securing **1st Place** overall.
 
+![Leaderboard Screenshot](assets/leaderboard_screenshot.png)
+
 ## Final Solution Overview
 The solution uses a **Stacked Generalization (Stacking)** ensemble of two powerful gradient boosted decision tree frameworks:
 - **LightGBM** (Tuned using Optuna)
