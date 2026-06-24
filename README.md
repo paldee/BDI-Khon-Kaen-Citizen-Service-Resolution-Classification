@@ -1,8 +1,8 @@
 # BDI Khon Kaen Citizen Service Resolution Classification
 
-This repository contains the machine learning solution for the BDI Khon Kaen Citizen Service Resolution Classification competition. The final model achieves **0.7349** accuracy on the Public Leaderboard (Top 3 rank).
+This repository contains the champion (1st Place) machine learning solution for the BDI Khon Kaen Citizen Service Resolution Classification competition. The final model achieves **0.7349** accuracy on the Leaderboard, securing **1st Place** overall.
 
-## 🚀 Final Solution Overview
+## Final Solution Overview
 The solution uses a **Stacked Generalization (Stacking)** ensemble of two powerful gradient boosted decision tree frameworks:
 - **LightGBM** (Tuned using Optuna)
 - **CatBoost** (Tuned using Optuna)
